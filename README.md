@@ -1,6 +1,6 @@
-# LanguageTutor
+# KieliKaveri-Browser
 
-LanguageTutor is an Expo/React Native prototype for practising spoken Finnish. Record a short turn, receive a transcript and one useful correction, then hear the tutor continue the conversation in Finnish.
+KieliKaveri-Browser is an Expo/React Native app for practising spoken Finnish. Record a short turn, receive a transcript and one useful correction, then hear the tutor continue the conversation in Finnish.
 
 ## Architecture
 
