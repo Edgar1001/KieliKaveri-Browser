@@ -20,7 +20,10 @@ The app starts at CEFR `B2` and `Puhekieli`. Select a level from A2 through C2 t
 
 Requirements: Node.js 20+, Python 3.11+, an OpenAI API key, an NVIDIA driver with CUDA 12 support, and Expo Go 57 on an Android phone or emulator.
 
+Run all commands from the `KieliKaveri-Browser` repository. Its FastAPI backend loads `.env`, `.venv`, and the local Piper voice from this same folder; these runtime files are intentionally excluded from Git.
+
 ```bash
+cd ~/Desktop/KieliKaveri-Browser
 cp .env.example .env
 npm install
 npm run local:setup
